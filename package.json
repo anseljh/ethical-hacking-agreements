@@ -1,0 +1,26 @@
+{
+  "name": "ethical-hacking-agreements",
+  "version": "0.0.1",
+  "description": "Form contracts for ethical hacking (white-hat) engagements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anseljh/ethical-hacking-agreements.git"
+  },
+  "keywords": [
+    "law",
+    "contracts",
+    "security"
+  ],
+  "contributors": [
+    { "name": "Ansel Halliburton" }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/anseljh/ethical-hacking-agreements/issues"
+  },
+  "homepage": "https://github.com/anseljh/ethical-hacking-agreements#readme"
+}
